@@ -1,5 +1,4 @@
 /*--------------------------------------------------------------
-  05_logistic_baseline.sas
   Purpose:
     - Baseline PD model using Logistic Regression
     - Produce bank-friendly model diagnostics:
