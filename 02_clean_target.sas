@@ -1,4 +1,4 @@
-/* 02_clean_target.sas
+/* 
    Target engineering and base numeric sanitisation
    Output: WORK.LC_MODEL_BASE
 */
