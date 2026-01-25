@@ -1,5 +1,4 @@
 /*--------------------------------------------------------------
-  03_feature_engineering.sas
   Purpose:
     - Create modelling-ready features from lc_model_base
     - Consistent naming: *_num, *_clean, *_flag
